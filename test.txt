@@ -3,4 +3,5 @@ test1
 test2
 
 test3
->>>>>>> c6766c9cd6beda43dc054bf588c97e54436c84f7
+
+test4
